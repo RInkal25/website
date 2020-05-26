@@ -1,0 +1,155 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 200%;
+  color: #40514E;
+}
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Lemonada', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+
+.h2 {
+  font-weight: normal;
+}
+
+p {
+  font-size: 1.2rem;
+  line-height: 2;
+}
+
+h3 {
+  font-family: 'Oswald', sans-serif;
+  color: #11999E;
+  font-size: 1.5rem;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Oswald', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.copy {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+.top-container {
+  background-color: #d4f3ef;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px 0;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+
+}
+
+.comp {
+  width: 26%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chil {
+  width: 26%;
+  float: right;
+  margin-left: 30px;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+
+}
+
+.intro {
+  width:30%;
+  margin: 0 auto;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+
+}
+
+.msg {
+  width: 40%;
+  margin: 40px auto 60px auto;
+}
+
+.btn {
+	-moz-box-shadow: 0px 10px 14px -7px #276873;
+	-webkit-box-shadow: 0px 10px 14px -7px #276873;
+	box-shadow: 0px 10px 14px -7px #276873;
+	background-color:#11cdd0;
+	-webkit-border-top-left-radius:8px;
+	-moz-border-radius-topleft:8px;
+	border-top-left-radius:8px;
+	-webkit-border-top-right-radius:8px;
+	-moz-border-radius-topright:8px;
+	border-top-right-radius:8px;
+	-webkit-border-bottom-right-radius:8px;
+	-moz-border-radius-bottomright:8px;
+	border-bottom-right-radius:8px;
+	-webkit-border-bottom-left-radius:8px;
+	-moz-border-radius-bottomleft:8px;
+	border-bottom-left-radius:8px;
+text-indent:0;
+	display:inline-block;
+	color:#ffffff;
+	font-family: 'Oswald', sans-serif;
+	font-size:20px;
+	font-weight:bold;
+	font-style:normal;
+height:57px;
+	line-height:57px;
+width:174px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.btn:hover {
+	background-color:#11999e;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
